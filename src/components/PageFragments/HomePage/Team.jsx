@@ -19,7 +19,7 @@ const Team = () => {
       <Row gutter={[20, 20]}>
         <Col xs={16} sm={16} md={8} lg={6}>
           <TeamTile
-            img="hashimoto-natsuki.jpg"
+            img="./hashimoto-natsuki.jpg"
             width={160}
             alt="location image"
             textH3="橋本 夏樹"
@@ -28,19 +28,28 @@ const Team = () => {
         </Col>
         <Col xs={16} sm={16} md={8} lg={6}>
           <TeamTile
-            img="oota-masayasu.png"
+            img="./oota-masayasu.png"
             width={160}
-            alt="location image"
+            alt="太田真康"
             textH3="太田 真康"
             textH4="Engineer"
           />
         </Col>
         <Col xs={16} sm={16} md={8} lg={6}>
           <TeamTile
-            img="goto-kei.png"
+            img="./goto-kei.png"
             width={160}
-            alt="location image"
+            alt="五斗圭"
             textH3="五斗 圭"
+            textH4="Engineer"
+          />
+        </Col>
+        <Col xs={16} sm={16} md={8} lg={6}>
+          <TeamTile
+            img="./tsuchida-ryutaro.png"
+            width={160}
+            alt="土田隆太郎"
+            textH3="土田 隆太郎"
             textH4="Engineer"
           />
         </Col>

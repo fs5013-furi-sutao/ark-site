@@ -1,6 +1,6 @@
 module.exports = {
-  pathPrefix: '',
-  siteUrl: 'https://rolwinreevan.com',
+  pathPrefix: '/ark-site',
+  siteUrl: 'https://fs5013-furi-sutao.github.io/ark-site/',
   siteTitle: 'アプリ開発サークル Ark',
   siteDescription: 'Logbook of a software developer',
   author: 'app-dev-circle-ark',

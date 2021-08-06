@@ -4,16 +4,16 @@ path: blog/hello-world-ark-first-blog
 tags: [javascript, html,css]
 cover: ./team-meeting.png
 date: 2021-07-31
-excerpt: Blogging and writing about tech stacks is always been my thing. I like to experiment with different technologies and write my views on them. Web technologies has always been my passion. Check my blog for codebits on various web technologies.
+excerpt: アプリ開発サークルを立ち上げてみました 🌐 今日、2021年7月31日が初活動日です 🙃 初回の参加メンバは、太田まさやすくん、五斗くん、橋本でした 👨🏽‍💻 また、初回サポートとして、水田さん、井戸さん、小林かなさんが来てくれました。ありがとう。 
 ---
 
-こんにちは、アプリ開発サークル Ark（アーク）の橋本です 👦🏻  👨🏽‍💻 
+こんにちは、アプリ開発サークル Ark（アーク）の橋本です 👦🏻   
 
 ## Hello World 🌎 
 
-アプリ開発サークルを立ち上げてみました 🌐 今日が初活動日です 🙃   
+アプリ開発サークルを立ち上げてみました 🌐 今日、2021年7月31日が初活動日です 🙃   
 
-初回の参加メンバは、太田まさやすくん、五斗くん、橋本でした。  
+初回の参加メンバは、太田まさやすくん、五斗くん、橋本でした 👨🏽‍💻  
 また、初回サポートとして、水田さん、井戸さん、小林かなさんが来てくれました。ありがとう。
 
 水田さんは、1ホールまるごとのバームクーヘンを差し入れしてくれました。Bona Peti!
@@ -41,8 +41,8 @@ excerpt: Blogging and writing about tech stacks is always been my thing. I like 
 - 10時間ほどで作れるもの
 - 言語は Kotolin
 
-## 最初に取り組むもの 🕸️ 🐛
+## 最初に取り組むもの
 
-手始めに取り組むものは、TODO アプリにしようということになりました💵 
+手始めに取り組むものは、🐛 TODO アプリ 🕸️ にしようということになりました💵 
 
 理由は、Kotlin の書き方に慣れるためです 🌐

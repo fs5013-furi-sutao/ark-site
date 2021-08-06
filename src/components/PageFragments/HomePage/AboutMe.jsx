@@ -7,8 +7,8 @@ import SEO from '../../Seo';
 
 const pageText = {
   paraOne: `こんにちは。私たちはアプリ開発サークル Ark（アーク）です。`,
-  paraTwo: `こんにちは。私たちはアプリ開発サークル Ark（アーク）です。`,
-  paraThree: `私たちはアプリを開発しています。<strong>AWS</strong> や <strong>GCP</strong> などのクラウドサーバ、
+  paraTwo: `アプリを作りたいな、アプリを作る様子を見たいな、またみんなが作るのを手伝いたいなを含めて、ただしゃべりたいという人も気軽に参加できる時間と空間、場所を作ることが、アプリ開発サークル Ark の目的です`,
+  paraThree: `アプリ開発では、<strong>AWS</strong> や <strong>GCP</strong> などのクラウドサーバ、
   <strong>Docker</strong> を使ったコンテナ技術、<strong>JUnit</strong> や <strong>Jest</strong>、ブラウザ操作をテストする <strong>Selenium</strong> や <strong>Puppeteer</strong> などの自動テスト、<strong>CD/CI</strong> などについても取り組んでいます。`
 };
 
@@ -30,7 +30,7 @@ const AboutMe = () => {
         <p dangerouslySetInnerHTML={domHtml(pageText.paraTwo)} />
         <p dangerouslySetInnerHTML={domHtml(pageText.paraThree)} />
       </div>
-      <img src="team-meeting.png" />
+      <img src="./team-meeting.png" />
       {/*
       <Row gutter={[20, 20]}>
         <Col xs={24} sm={24} md={12} lg={8}>

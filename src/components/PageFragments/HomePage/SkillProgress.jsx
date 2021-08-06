@@ -5,8 +5,7 @@ import ProgressBar from '../../Progress';
 const SkillsProgress = () => (
   <div className="skillProgress">
     <h2 className="titleSeparate">Study for...</h2>
-    <p>100% が業務で扱えるレベルです。</p>
-
+    <p>グラフはチームのスキルレベルを表しています。100% は、業務でどんな要望があっても迷いなく実現できるレベルをイメージしています。</p>
 
     <Row gutter={[20, 20]}>
 
@@ -78,59 +77,59 @@ const SkillsProgress = () => (
       <Col xs={24} sm={24} md={12}>
         <p className="studySection">Web フレームワーク</p>
         <ProgressBar
-          percent={90}
+          percent={60}
           text="Laravel"
         />
         <ProgressBar
-          percent={90}
+          percent={70}
           text="Spring boot"
         />
         <ProgressBar
-          percent={90}
+          percent={60}
           text=".NET Core"
         />
         <ProgressBar
-          percent={90}
+          percent={70}
           text="Django"
         />
         <ProgressBar
-          percent={90}
+          percent={70}
           text="Flask"
         />
         <p className="studySection">Web API</p>
         <ProgressBar
-          percent={90}
+          percent={70}
           text="REST API"
         />
         <ProgressBar
-          percent={90}
+          percent={50}
           text="GraphQL"
         />
         <p className="studySection">データベース</p>
         <ProgressBar
-          percent={90}
+          percent={60}
           text="Mysql"
         />
         <ProgressBar
-          percent={90}
+          percent={70}
           text="PostgreSQL"
         />
         <ProgressBar
-          percent={90}
+          percent={40}
           text="SQL Server"
         />
         <ProgressBar
-          percent={78}
+          percent={70}
           text="MongoDB"
         />
         <p className="studySection">コンテナ</p>
         <ProgressBar
-          percent={80}
+          percent={70}
           text="Docker"
         />
         <p className="studySection">バージョン管理</p>
         <ProgressBar
-          percent={80}
+          percent={60}
           text="Git / GitHub"
         />
       </Col>
