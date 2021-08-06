@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: '/ark-site',
   siteUrl: 'https://fs5013-furi-sutao.github.io/ark-site/',
   siteTitle: 'アプリ開発サークル Ark',
-  siteDescription: 'Logbook of a software developer',
+  siteDescription: 'アプリ開発サークル Ark の情報ページです',
   author: 'app-dev-circle-ark',
   postsForArchivePage: 3,
   defaultLanguage: 'ja',
